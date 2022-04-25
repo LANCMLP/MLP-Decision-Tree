@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mlp-decision-tree/precache-manifest.5387aec71e332614f5b314e809f26d61.js"
+  "/MLP-Decision-Tree/precache-manifest.78f3e562296d9dc8068c5af14a3d3437.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/mlp-decision-tree/index.html", {
+workbox.routing.registerNavigationRoute("/MLP-Decision-Tree/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
