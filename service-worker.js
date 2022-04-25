@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-editable-tree/precache-manifest.fcd4681f91449a8478f75bbdf58c88e7.js"
+  "/mlp-decision-tree/precache-manifest.0e38cd7e01fa63e444e91c98efdacb0e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/react-editable-tree/index.html", {
+workbox.routing.registerNavigationRoute("/mlp-decision-tree/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

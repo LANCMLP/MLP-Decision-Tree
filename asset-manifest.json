@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-editable-tree/static/css/main.1ddea362.chunk.css",
-  "main.js": "/react-editable-tree/static/js/main.26ff9638.chunk.js",
-  "main.js.map": "/react-editable-tree/static/js/main.26ff9638.chunk.js.map",
-  "runtime~main.js": "/react-editable-tree/static/js/runtime~main.4c8466e7.js",
-  "runtime~main.js.map": "/react-editable-tree/static/js/runtime~main.4c8466e7.js.map",
-  "static/js/2.edf0b40c.chunk.js": "/react-editable-tree/static/js/2.edf0b40c.chunk.js",
-  "static/js/2.edf0b40c.chunk.js.map": "/react-editable-tree/static/js/2.edf0b40c.chunk.js.map",
-  "index.html": "/react-editable-tree/index.html",
-  "precache-manifest.fcd4681f91449a8478f75bbdf58c88e7.js": "/react-editable-tree/precache-manifest.fcd4681f91449a8478f75bbdf58c88e7.js",
-  "service-worker.js": "/react-editable-tree/service-worker.js",
-  "static/css/main.1ddea362.chunk.css.map": "/react-editable-tree/static/css/main.1ddea362.chunk.css.map"
+  "main.css": "/mlp-decision-tree/static/css/main.1ddea362.chunk.css",
+  "main.js": "/mlp-decision-tree/static/js/main.c2c2cae7.chunk.js",
+  "main.js.map": "/mlp-decision-tree/static/js/main.c2c2cae7.chunk.js.map",
+  "runtime~main.js": "/mlp-decision-tree/static/js/runtime~main.cf069657.js",
+  "runtime~main.js.map": "/mlp-decision-tree/static/js/runtime~main.cf069657.js.map",
+  "static/js/2.edf0b40c.chunk.js": "/mlp-decision-tree/static/js/2.edf0b40c.chunk.js",
+  "static/js/2.edf0b40c.chunk.js.map": "/mlp-decision-tree/static/js/2.edf0b40c.chunk.js.map",
+  "index.html": "/mlp-decision-tree/index.html",
+  "precache-manifest.0e38cd7e01fa63e444e91c98efdacb0e.js": "/mlp-decision-tree/precache-manifest.0e38cd7e01fa63e444e91c98efdacb0e.js",
+  "service-worker.js": "/mlp-decision-tree/service-worker.js",
+  "static/css/main.1ddea362.chunk.css.map": "/mlp-decision-tree/static/css/main.1ddea362.chunk.css.map"
 }
