@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "484b9de6c402c945d139",
+    "revision": "a5c7ff0673c73860fe6c",
     "url": "/react-editable-tree/static/css/main.1ddea362.chunk.css"
   },
   {
-    "revision": "484b9de6c402c945d139",
-    "url": "/react-editable-tree/static/js/main.e00a8a39.chunk.js"
+    "revision": "a5c7ff0673c73860fe6c",
+    "url": "/react-editable-tree/static/js/main.26ff9638.chunk.js"
   },
   {
     "revision": "2f1813bb2fedbb5746db",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/react-editable-tree/static/js/2.edf0b40c.chunk.js"
   },
   {
-    "revision": "00213a6d082c154f5e9968f705fa6a4f",
+    "revision": "5d356f23179892b47c2faf379adf10ad",
     "url": "/react-editable-tree/index.html"
   }
 ];
