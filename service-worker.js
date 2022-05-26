@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/MLP-Decision-Tree/precache-manifest.da865c4982d880254083a840c66ee024.js"
+  "/MLP-Decision-Tree/precache-manifest.fae93da610192fcb0d338d54d9b30587.js"
 );
 
 workbox.clientsClaim();
